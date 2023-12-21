@@ -13,3 +13,8 @@ The goal of this project is to build a website using the `Express/Node.js` platf
 2. run the command `npm i` to install all the dependencies
 3. use `node` or `nodemon index.js` to run the server
 4. go to your web browser and run the server port "`localhost:3000`"
+
+## Screenshots
+![Screenshot 2023-12-21 180910](https://github.com/krmilan/geo-weather-app/assets/109038886/37572a5d-c668-4e1b-8f17-666cf484c191)\
+![Screenshot 2023-12-21 181013](https://github.com/krmilan/geo-weather-app/assets/109038886/8c78c685-a3c5-4703-8a86-8a7a4dd46419)\
+![Screenshot 2023-12-21 180949](https://github.com/krmilan/geo-weather-app/assets/109038886/52f841a4-24f0-40b3-9ab6-fb34882ac2c1)\
