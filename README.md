@@ -9,10 +9,11 @@ The goal of this project is to build a website using the `Express/Node.js` platf
 - Demonstrate ability to manipulate, present, and work with data retrieved from APIs.
 
 ## Steps to run the Application
-1. select the folder in the command line using cd "`folder location`"
-2. run the command `npm i` to install all the dependencies
-3. use `node` or `nodemon index.js` to run the server
-4. go to your web browser and run the server port "`localhost:3000`"
+1. First and foremost got to https://openweathermap.org/api and create an account this will generate your personal api key for openweather copy the API key generated and replace `{your API Key}` with your `own API key` in the index.js file. 
+2. select the folder in the command line using cd "`folder location`"
+3. run the command `npm i` to install all the dependencies
+4. use `node` or `nodemon index.js` to run the server
+5. go to your web browser and run the server port "`localhost:3000`"
 
 ## Screenshots
 ![Screenshot 2023-12-21 180910](https://github.com/krmilan/geo-weather-app/assets/109038886/37572a5d-c668-4e1b-8f17-666cf484c191)\
